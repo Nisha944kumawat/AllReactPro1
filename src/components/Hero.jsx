@@ -2,6 +2,7 @@ import flipkartLogo from '../assets/flipkart.png';
 import amazonLogo from '../assets/amazon.png';
 import shoeImage from '../assets/shoe_image.png';
 
+
 const HeroSection = () => {
     return (
         <>
@@ -37,5 +38,4 @@ const HeroSection = () => {
         </>
     );
 };
-
 export default HeroSection;
